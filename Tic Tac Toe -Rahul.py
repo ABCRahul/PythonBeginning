@@ -1,4 +1,4 @@
-
+#This is a two player pygame Tic tac toe
 
 def user_select():
     global players
